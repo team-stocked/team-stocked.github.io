@@ -1,2 +1,1 @@
-# team-stocked.github.io
-website
+# web
