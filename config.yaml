@@ -1,4 +1,4 @@
-baseURL: "http://www.stockedly.com/"
+baseURL: "https://www.stockedly.com/"
 theme: "up-business-theme"
 languageCode: "en-us"
 
