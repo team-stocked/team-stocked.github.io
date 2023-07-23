@@ -2,8 +2,8 @@ enabled: true
 id: "hero"
 
 content:
-  title: "How to **level up** your business"
-  text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Est faucibus tellus leo non pellentesque lorem vel. Arcu magna eros, potenti duis."
+  title: "Simply Scan & we will deliver **to your door**"
+  text: "We know you have a busy life, save time & money keeping up with your grocerry and daily needs."
 
   buttonPrimary:
     label: "How we work"

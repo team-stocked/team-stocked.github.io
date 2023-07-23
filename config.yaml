@@ -2,15 +2,15 @@ baseURL: "http://www.stockedly.com/"
 theme: "up-business-theme"
 languageCode: "en-us"
 
-title: "Up Business"
+title: "STOCKEDLY"
 
 # googleAnalytics: ""
 
 summaryLength: 20
 
 params:
-  title: "Up Business"
-  description: "We specialize in providing services to desing websites, applications, build and maintain business for customers."
+  title: "STOCKEDLY"
+  description: "We know you have a busy life, save time & money keeping up with your grocerry and daily needs."
   images: 
     - "images/hero-image.png"
 
@@ -28,24 +28,19 @@ params:
     twitter: "#"
 
   location:
-    - "3891 Ranchview Dr. Richardson, California 62639"
-    - "4517 Washington Ave. Manchester, Kentucky 39495"
+    - "San Francisco, California"
 
   contact:
-    - "trungkienspktnd@gamail.com"
-    - "207.555.0119"
+    - "help@stockedly.com"
+    - "xxx.xxx.xxxx"
 
-  copyright: "© 2022 Up Business All Rights Reserved"
+  copyright: "© 2023 Stocked Technology, LLC - All Rights Reserved"
 
 menus:
   main:
     - name: "Home"
       url: "/#hero"
       weight: 1
-
-    - name: "How we work"
-      url: "/#"
-      weight: 2
 
     - name: "Our team"
       url: "/#"
@@ -55,12 +50,8 @@ menus:
       url: "/#"
       weight: 4
 
-    - name: "Blog"
-      url: "/blog"
-      weight: 5
-
   buttons:
-    - name: "Book a call"
+    - name: "App Store"
       url: "/#"
       weight: 5
       pre: "btn btn-primary text-light"
