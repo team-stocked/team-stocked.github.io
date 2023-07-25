@@ -9,8 +9,8 @@ googleAnalytics: "G-VSJ1M3R2GC"
 summaryLength: 20
 
 params:
-  title: "STOCKEDLY"
-  description: "We know you have a busy life, save time & money keeping up with your grocerry and daily needs."
+  title: "make"
+  description: "Ran out of milk and eggs? Before tossing the empty box for recyling, you simply scan it. The very next day these items magically appear in your front door."
   images:
     - "images/hero-image.png"
 
