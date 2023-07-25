@@ -9,8 +9,8 @@ googleAnalytics: "G-VSJ1M3R2GC"
 summaryLength: 20
 
 params:
-  title: "make"
-  description: "Ran out of milk and eggs? Before tossing the empty box for recyling, you simply scan it. The very next day these items magically appear in your front door."
+  title: "STOCKEDLY"
+  description: "Ran out of milk and eggs? Before tossing the empty box for recyling, you simply scan it. Then magically, these items appear in your front door."
   images:
     - "images/hero-image.png"
 

@@ -3,7 +3,7 @@ id: "hero"
 
 content:
   title: "Get everyday items, **delivered, fast**"
-  text: "Ran out of milk and eggs? Before tossing the empty box for recyling, you simply scan it. The very next day these items magically appear in your front door."
+  text: "Ran out of milk and eggs? Before tossing the empty box for recyling, you simply scan it. Then magically, these items appear in your front door."
 
   # buttonPrimary:
   #   label: "How we work"
