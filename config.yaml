@@ -11,7 +11,7 @@ summaryLength: 20
 params:
   title: "STOCKEDLY"
   description: "We know you have a busy life, save time & money keeping up with your grocerry and daily needs."
-  images: 
+  images:
     - "images/hero-image.png"
 
   logo: "arrow-up.png"
@@ -21,61 +21,62 @@ params:
     backgroundColor: "#FFFFFF"
     faviconColor: "#000000"
 
-  social:
-    dribbble: "#"
-    instagram: "#"
-    facebook: "#"
-    twitter: "#"
+  # social:
+  #   dribbble: "#"
+  #   instagram: "#"
+  #   facebook: "#"
+  #   twitter: "#"
 
   location:
     - "San Francisco, California"
+    - "Dallas, Texas"
 
   contact:
     - "help@stockedly.com"
-    - "xxx.xxx.xxxx"
+    # - "xxx.xxx.xxxx"
 
   copyright: "© 2023 Stocked Technology, LLC - All Rights Reserved"
 
-menus:
-  main:
-    - name: "Home"
-      url: "/#hero"
-      weight: 1
+# menus:
+#   main:
+#     - name: "Home"
+#       url: "/#hero"
+#       weight: 1
 
-    - name: "Our team"
-      url: "/#"
-      weight: 3
+#     - name: "Our team"
+#       url: "/#"
+#       weight: 3
 
-    - name: "Pricing"
-      url: "/#"
-      weight: 4
+#     - name: "Pricing"
+#       url: "/#"
+#       weight: 4
 
-  buttons:
-    - name: "App Store"
-      url: "/#"
-      weight: 5
-      pre: "btn btn-primary text-light"
+#   buttons:
+#     - name: "App Store"
+#       url: "/#"
+#       weight: 5
+#       pre: "btn btn-primary text-light"
 
-  footer:
-    - name: "Home"
-      url: "/#hero"
-      weight: 1
+#   footer:
+#     - name: "Home"
+#       url: "/#hero"
+#       weight: 1
 
-    - name: "How we work"
-      url: "/#"
-      weight: 2
+#     - name: "How we work"
+#       url: "/#"
+#       weight: 2
 
-    - name: "Our team"
-      url: "/#"
-      weight: 3
+#     - name: "Our team"
+#       url: "/#"
+#       weight: 3
 
-    - name: "Pricing"
-      url: "/#"
-      weight: 4
+#     - name: "Pricing"
+#       url: "/#"
+#       weight: 4
 
-    - name: "Blog"
-      url: "/blog"
-      weight: 5
+#     - name: "Blog"
+#       url: "/blog"
+#       weight: 5
 
 taxonomies:
   series: "series"

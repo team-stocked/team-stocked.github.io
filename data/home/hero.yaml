@@ -2,14 +2,14 @@ enabled: true
 id: "hero"
 
 content:
-  title: "Simply Scan & we will deliver **to your door**"
+  title: "Get everyday items, **delivered, fast**"
   text: "We know you have a busy life, save time & money keeping up with your grocerry and daily needs."
 
-  buttonPrimary:
-    label: "How we work"
-    url: "#"
+  # buttonPrimary:
+  #   label: "How we work"
+  #   url: "#"
 
-  buttonSecondary:
-    label: "Let's talk"
-    url: ""
+  # buttonSecondary:
+  #   label: "Let's talk"
+  #   url: ""
 
